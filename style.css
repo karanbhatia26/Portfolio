@@ -77,6 +77,7 @@
         font-size: 1.5rem;
         margin: 2rem 1rem 2rem 0;
         text-decoration: none;
+        
     }
     .icons a:hover{
         background: #0ef;
@@ -132,6 +133,7 @@
     .skillicons{
         margin: 0 100px ;
         margin-bottom: 0px;
+        margin-right: 10px;
     }
     .skillicons  div{
         display: inline-flex;
@@ -148,6 +150,7 @@
         margin: 4rem 9rem 4rem 0;
         text-decoration: none;
         margin-bottom: 1px;
+        margin-right: 30px;
     }
     .skillicons  div div{
         font-size: 1.3rem;
