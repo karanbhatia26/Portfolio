@@ -50,7 +50,7 @@ const About: React.FC = () => {
                   <p className="text-text-secondary/60 font-mono text-xs mt-1">Coming Soon</p>
                 </div> */}
                 <img
-                  src="/Web_Photo_Editor.jpg"
+                  src="./Web_Photo_Editor.jpg"
                   alt="Profile"
                   className="object-cover w-full h-full"
                 />
